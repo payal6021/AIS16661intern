@@ -1,0 +1,13 @@
+
+    "# VARIABLES DECLRATION 
+    "VARIABLES nothing but the container 
+    "(we can store any type of dataset)
+    "       .... RULES....,
+    "       1. Underscore is allow.
+    "       2. variable name starts with LETTERS, ALPHABETS,DIGIT(0-9)
+    "       eg: ABC_123
+    "       3.Always start with alphabets
+    "       4. variables name are case sensitive.
+    "       5. variables can be alphanumeric.
+    "       6. python keywords
+    "       (if, elif,else,while,...etc)cannot used as variable name.
