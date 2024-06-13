@@ -30,7 +30,7 @@ Division(/)
  Transpose
 Exponentiation(**)
  Floor Division(//)
-Task 5 : studied about Pandas library in which we created 5- notebook of pandas
+ Task 5 : studied about Pandas library in which we created 5- notebook of pandas
 1) series : studied  about various method of creating series in which creation from list creation from labels etc,and operation used for this series.
 2) DataFrame : studied about how to create dataframe using matrix, and how to import csv file and xlsx file.
 3) DataFrame Opertions :  we use some inbuilt operatition like 
