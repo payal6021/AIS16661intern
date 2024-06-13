@@ -17,33 +17,33 @@ User defined function: we define function to compute some mathmatical calculatio
 Statistical User define Function : we define function to compute some Statistical  calculation  like mean ,median .
 
 Task 4: studied about Numpy library where 
-# numpy stands for numerical python
-# It is core library for numeric and scientific computing
-# It consists of multi dimentional array object and a collection of routines for processing those arrays
-# BASIC MATH FUNCTION
-# Arithmatic operations of Numpy arrays
-# > substraction(-)
-# > multiplication(*)
-# > Division(/)
-# > matrix multiplication(@)
-# > Modulo(%)
-# > Transpose
-# > Exponentiation(**)
-# > Floor Division(//)
+ numpy stands for numerical python
+ It is core library for numeric and scientific computing
+ It consists of multi dimentional array object and a collection of routines for processing those arrays
+ BASIC MATH FUNCTION
+Arithmatic operations of Numpy arrays
+substraction(-)
+multiplication(*)
+Division(/)
+ matrix multiplication(@)
+ Modulo(%)
+ Transpose
+Exponentiation(**)
+ Floor Division(//)
 Task 5 : studied about Pandas library in which we created 5- notebook of pandas
 1) series : studied  about various method of creating series in which creation from list creation from labels etc,and operation used for this series.
 2) DataFrame : studied about how to create dataframe using matrix, and how to import csv file and xlsx file.
 3) DataFrame Opertions :  we use some inbuilt operatition like 
-# > df.head()
-# > df.tail()
-# > df.shape
-# > df.size
-# > df.columns
-# > df.dtypes
-# > df.values
-# > df.index
-# > count
-# > Index
-# > unique
+df.head()
+df.tail()
+ df.shape
+df.size
+ df.columns
+ df.dtypes
+df.values
+ df.index
+ count
+Index
+unique
 4) selection : studied about how we select data from DataFrame in which how to select one row ,multiple rows by index label and by integer index.Adding a new column to a dataframe, Adding a new row to a dataframe,deleting a  column to a dataframe,deleting a row to a dataframe.
 5) 
