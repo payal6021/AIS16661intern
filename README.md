@@ -11,3 +11,39 @@ If__ else__statement :Provides an alternative execution path if the if condition
 If__elif__statement  : that allows you to add additional conditions if the previous conditions are false.
 for__loop__statement  : is a control flow statement that allows you to iterate over a sequence (like a list, tuple, string, or range) and execute a block of code for each item in that sequence.
 While__loop : The while loop in Python repeatedly executes a block of code as long as a specified condition is True called Infinite loop.
+
+Task 3 : studies about control statements like Break statement, Pass Statement, continue statement where tBreak statement used to break/stop the current iteration,countinue statement used to skip if we used "continue" to any condition and it is true then its skip that for one time and "Pass" is used when if we dont want give any condition to the situation and we want that if condition is true else it doesnt execute and passes next.
+User defined function: we define function to compute some mathmatical calculation like odd-even ,Grades.
+Statistical User define Function : we define function to compute some Statistical  calculation  like mean ,median .
+
+Task 4: studied about Numpy library where 
+# numpy stands for numerical python
+# It is core library for numeric and scientific computing
+# It consists of multi dimentional array object and a collection of routines for processing those arrays
+# BASIC MATH FUNCTION
+# Arithmatic operations of Numpy arrays
+# > substraction(-)
+# > multiplication(*)
+# > Division(/)
+# > matrix multiplication(@)
+# > Modulo(%)
+# > Transpose
+# > Exponentiation(**)
+# > Floor Division(//)
+Task 5 : studied about Pandas library in which we created 5- notebook of pandas
+1) series : studied  about various method of creating series in which creation from list creation from labels etc,and operation used for this series.
+2) DataFrame : studied about how to create dataframe using matrix, and how to import csv file and xlsx file.
+3) DataFrame Opertions :  we use some inbuilt operatition like 
+# > df.head()
+# > df.tail()
+# > df.shape
+# > df.size
+# > df.columns
+# > df.dtypes
+# > df.values
+# > df.index
+# > count
+# > Index
+# > unique
+4) selection : studied about how we select data from DataFrame in which how to select one row ,multiple rows by index label and by integer index.Adding a new column to a dataframe, Adding a new row to a dataframe,deleting a  column to a dataframe,deleting a row to a dataframe.
+5) 
