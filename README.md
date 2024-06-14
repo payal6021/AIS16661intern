@@ -47,4 +47,20 @@ df.values
 Index
 unique
 4) selection : studied about how we select data from DataFrame in which how to select one row ,multiple rows by index label and by integer index.Adding a new column to a dataframe, Adding a new row to a dataframe,deleting a  column to a dataframe,deleting a row to a dataframe.
-5) 
+5) Missing values :
+6)  1.Using isna() or isnull() : These methods return a DataFrame of the same shape, but with Boolean values indicating whether each value is missing (True) or not (False).In which studied about checking of Missing values how to drop Missing value  by row and by column.
+7)  Using notna() or notnull(): These methods return the opposite of isna()/isnull(), showing True for non-missing values.
+
+8) Task 6 :  studied about matplotlib library and seaborn library where matplotlib used to visialize data or to plot the data . matplotlib is a ploting library for python and its mathmatical numeric extention numpy.Example  : Scatter plot,multiple line plot,line plot,pie chart,etc
+9) Seaborn is a Python data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics. It is designed to make it easier to create complex plots and explore datasets.
+1. relplot():A high-level interface for drawing relational plots.Examples: scatter plots, line plots.
+2. catplot():A high-level interface for drawing categorical plots.Examples: bar plots, box plots, violin plots.
+3.displot():A high-level interface for drawing distributional plots.Examples: histograms, KDE plots, rug plots.
+4.pairplot(): A function for visualizing pairwise relationships in a dataset.Generates a matrix of plots to show relationships between each pair of variables.
+5. heatmap():A function for drawing heatmaps.Useful for visualizing correlation matrices or frequency tables.
+
+6. Task 7 : solved exercises on provided  data  
+
+
+
+
