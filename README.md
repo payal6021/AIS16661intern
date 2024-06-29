@@ -60,8 +60,9 @@ unique
 5. heatmap():A function for drawing heatmaps.Useful for visualizing correlation matrices or frequency tables.
 
 6. Task 7 : solved exercises : In this task soved the exercises on Ecommerce Data and saleries Data.in this task we done the preprocessing of the data .
-7. Case Study : In Case study done the Model building on Titanic Data set,in which first day done  the pre-processing on the data and second day fitting the best model.
-8. project  :-In the project we studied about first we done preprocessing on the data, 
+7. Case Study : In Case study done the Model building on Titanic Data set,in which first day done  the pre-processing on the data and second day fitting the best  model.
+8. project  :-In the project we studied about the machine learning.first we done preprocessing on the data,in this project we use Histerical data from Airline Delay to predict wether arrival of the flight will be delay or it will be on time.we approach this problem  as a classification problem.Airline data set have 539484 n-observation and eight different features .
+9. Exploratory data Analysis : in exploratory data analysis we check the missing values but in data set there is no missing values after that we drop the unnessesary model which is "id".Then we shuffled the data into 150000 n-observations,then choose dependant and dependant variables.split the data into 80:20 ratio then fitting the model using 10 algorithm, and fit the model .to check the best parameter we use grid CV search and using best parameter fit the model.after we use feature importance code to identiify best features in the model .we got three best parametr which explain more praportion in the model which is (Airline,Length,Time).
     
 
 
