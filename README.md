@@ -59,7 +59,10 @@ unique
 4.pairplot(): A function for visualizing pairwise relationships in a dataset.Generates a matrix of plots to show relationships between each pair of variables.
 5. heatmap():A function for drawing heatmaps.Useful for visualizing correlation matrices or frequency tables.
 
-6. Task 7 : solved exercises on provided  data  
+6. Task 7 : solved exercises : In this task soved the exercises on Ecommerce Data and saleries Data.in this task we done the preprocessing of the data .
+7. Case Study : In Case study done the Model building on Titanic Data set,in which first day done  the pre-processing on the data and second day fitting the best model.
+8. project  :-In the project we studied about first we done preprocessing on the data, 
+    
 
 
 
